@@ -1,0 +1,2 @@
+# set_instrument
+item_modifiersのset_instrumentに関するデータパックサンプルになります。
